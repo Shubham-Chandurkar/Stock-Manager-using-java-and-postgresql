@@ -5,7 +5,7 @@
 2)JDBC       :- To learn more visit :https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html <br/>
 3)PostgreSQL :- To learn more visit :https://www.postgresql.org/docs/current/ <br/>
 
-This is a simple java project in which a user can manage/track their stock activities. This project allows user to add the stock, edit stock, delete stock, delete the table, and to convert the data entries into sharable .csv formate.
+This is a simple java project in which a user can manage/track their stock activities. This project allows user to add the stock, edit stock, delete stock, delete the table, and to convert the data entries into sharable .csv format.
 
 ## 1)Main GUI:
 ![](output/output1.JPG)
